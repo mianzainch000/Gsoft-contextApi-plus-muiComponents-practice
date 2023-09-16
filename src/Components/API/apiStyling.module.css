@@ -1,0 +1,9 @@
+.textCenter {
+  text-align: center;
+}
+.button {
+  text-transform: none !important;
+  font-size: 20px !important;
+  color: white !important;
+  text-decoration: none;
+}

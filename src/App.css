@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  color: black;
+}
+.heading {
+  margin-top: 20px;
+  background-color: brown;
+  padding: 5px;
+  text-align: center;
+  color: white;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+}
+
+.tableContainer {
+  display: flex;
+  justify-content: center;
+}
+table {
+  width: 70%;
+}
+
+th,
+td {
+  border: 10px solid black !important;
+  text-align: center !important;
+}
